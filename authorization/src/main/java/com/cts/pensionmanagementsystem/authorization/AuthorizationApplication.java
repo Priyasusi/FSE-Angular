@@ -37,7 +37,7 @@ public class AuthorizationApplication {
 
 		log.info("START - initUser() of AuthorizationApplication");
 
-		List<UserInfo> usersInfoList = Stream.of(new UserInfo(1,"priya", "priya@123"), new UserInfo(2,"sai", "sai@123")).toList();
+		List<UserInfo> usersInfoList = Stream.of(new UserInfo(1,"priya", "priya"), new UserInfo(2,"admin", "admin")).toList();
 		userRepository.saveAll(usersInfoList);
 
 		log.info("END - initUser() of AuthorizationApplication");

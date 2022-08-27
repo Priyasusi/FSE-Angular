@@ -26,8 +26,8 @@ import lombok.extern.slf4j.Slf4j;
 @RequiredArgsConstructor
 public class AuthorizationController {
 
-	private final JwtUtilService jwtUtilService;
-	private final UserDetailsServiceImpl userDetailService;
+	private final JwtUtilService jwtUtilService = new JwtUtilService();
+	private final UserDetailsServiceImpl userDetailService = new UserDetailsServiceImpl();
 	private final AuthenticationManager authenticationManager;
 
 	@PostMapping("/Authenticate")
