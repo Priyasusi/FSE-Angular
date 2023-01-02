@@ -1,5 +1,6 @@
 package com.cts.pensionmanagementsystem.authorization.controller;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;
@@ -17,18 +18,22 @@ import com.cts.pensionmanagementsystem.authorization.exception.ResourceNotFound;
 import com.cts.pensionmanagementsystem.authorization.service.JwtUtilService;
 import com.cts.pensionmanagementsystem.authorization.service.UserDetailsServiceImpl;
 
-import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @CrossOrigin("*")
 @RestController
-@RequiredArgsConstructor
-public class AuthorizationController {
 
-	private final JwtUtilService jwtUtilService = new JwtUtilService();
-	private final UserDetailsServiceImpl userDetailService = new UserDetailsServiceImpl();
-	private final AuthenticationManager authenticationManager;
+public class AuthorizationController {
+	
+	@Autowired
+	JwtUtilService jwtUtilService = new JwtUtilService();
+	
+	@Autowired
+	UserDetailsServiceImpl userDetailService = new UserDetailsServiceImpl();
+	
+	@Autowired
+	AuthenticationManager authenticationManager;
 
 	@PostMapping("/Authenticate")
 	public ResponseEntity<LoginResponse> generateToken(@RequestBody LoginRequest loginRequest) throws ResourceNotFound {

@@ -1,0 +1,282 @@
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:24:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:24:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:36:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:36:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'usersInfoList' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/AuthorizationApplication.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'usersInfoList' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:27:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:27:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:27:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:27:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:30:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:30:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:33:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:33:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:33:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:33:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:36:	LongVariable:	LongVariable: Avoid excessively long variable names like authtAuthenticationManagerBuilder
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:36:	LongVariable:	LongVariable: Avoid excessively long variable names like authtAuthenticationManagerBuilder
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'authtAuthenticationManagerBuilder' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'authtAuthenticationManagerBuilder' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:48:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:48:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'http' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'http' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:73:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:73:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:73:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/config/WebSecurityConfig.java:73:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:27:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:27:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:27:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:27:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:29:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:29:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:30:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:30:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:30:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the jwtUtilService field if you want a default access modifier
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:30:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the jwtUtilService field if you want a default access modifier
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:32:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:32:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:33:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:33:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:33:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userDetailService field if you want a default access modifier
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:33:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userDetailService field if you want a default access modifier
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:33:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:33:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:35:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:35:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:36:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:36:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:36:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authenticationManager field if you want a default access modifier
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:36:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authenticationManager field if you want a default access modifier
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:36:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:36:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:36:	LongVariable:	LongVariable: Avoid excessively long variable names like authenticationManager
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:36:	LongVariable:	LongVariable: Avoid excessively long variable names like authenticationManager
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:39:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:39:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'loginRequest' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'loginRequest' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:46:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:46:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:48:	PreserveStackTrace:	PreserveStackTrace: New exception is thrown in catch block, original stack trace may be lost
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:48:	PreserveStackTrace:	PreserveStackTrace: New exception is thrown in catch block, original stack trace may be lost
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:59:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:59:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:63:	AvoidReassigningParameters:	AvoidReassigningParameters: Avoid reassigning parameters such as 'token'
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:63:	AvoidReassigningParameters:	AvoidReassigningParameters: Avoid reassigning parameters such as 'token'
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:63:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:63:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:66:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:66:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:68:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cts/pensionmanagementsystem/authorization/controller/AuthorizationController.java:68:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/LoginRequest.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/LoginRequest.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/LoginRequest.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/LoginRequest.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/LoginRequest.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/LoginRequest.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/LoginResponse.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/LoginResponse.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/LoginResponse.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/LoginResponse.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/UserInfo.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/UserInfo.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/UserInfo.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/UserInfo.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/UserInfo.java:22:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/UserInfo.java:22:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/UserInfo.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/UserInfo.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/UserInfo.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/entity/UserInfo.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:23:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:23:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:23:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:23:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'authException' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'authException' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:33:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:33:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:38:	UseConcurrentHashMap:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/AuthEntryPointJwt.java:38:	UseConcurrentHashMap:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/ResourceNotFound.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/ResourceNotFound.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/ResourceNotFound.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/exception/ResourceNotFound.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:24:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:24:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:29:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:29:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:29:	LongVariable:	LongVariable: Avoid excessively long variable names like userDetailsService
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:29:	LongVariable:	LongVariable: Avoid excessively long variable names like userDetailsService
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'filterChain' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'filterChain' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'authrizationHeader' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'authrizationHeader' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:39:	LongVariable:	LongVariable: Avoid excessively long variable names like authrizationHeader
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:39:	LongVariable:	LongVariable: Avoid excessively long variable names like authrizationHeader
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:41:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'token' (lines '41'-'47').
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:41:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'token' (lines '41'-'47').
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:41:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'token' (lines '41'-'68').
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:41:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'token' (lines '41'-'68').
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:42:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'userName' (lines '42'-'48').
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:42:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'userName' (lines '42'-'48').
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:45:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:45:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:51:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:51:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userDetails' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userDetails' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'usernamePasswordAuthenticationToken' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'usernamePasswordAuthenticationToken' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:57:	LongVariable:	LongVariable: Avoid excessively long variable names like usernamePasswordAuthenticationToken
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:57:	LongVariable:	LongVariable: Avoid excessively long variable names like usernamePasswordAuthenticationToken
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:61:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/filter/AuthTokenFilter.java:61:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/repository/UserRepository.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/repository/UserRepository.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/repository/UserRepository.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/repository/UserRepository.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:20:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:20:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:20:	ImmutableField:	ImmutableField: Private field 'secretKey' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:20:	ImmutableField:	ImmutableField: Private field 'secretKey' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'claimsResolver' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'claimsResolver' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:54:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:54:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'claims' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'claims' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:57:	UseConcurrentHashMap:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:57:	UseConcurrentHashMap:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'claims' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'claims' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'subject' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'subject' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:72:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:72:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userDetails' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userDetails' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:76:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:76:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:76:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/JwtUtilService.java:76:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:27:	AvoidUncheckedExceptionsInSignatures:	AvoidUncheckedExceptionsInSignatures: A method or constructor should not explicitly declare unchecked exceptions in its 'throws' clause
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:27:	AvoidUncheckedExceptionsInSignatures:	AvoidUncheckedExceptionsInSignatures: A method or constructor should not explicitly declare unchecked exceptions in its 'throws' clause
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userInfo' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userInfo' could be declared final
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:32:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:32:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:32:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:32:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:34:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:34:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:36:	PreserveStackTrace:	PreserveStackTrace: New exception is thrown in catch block, original stack trace may be lost
+src/main/java/com/cts/pensionmanagementsystem/authorization/service/UserDetailsServiceImpl.java:36:	PreserveStackTrace:	PreserveStackTrace: New exception is thrown in catch block, original stack trace may be lost
